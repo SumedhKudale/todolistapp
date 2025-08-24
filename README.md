@@ -3,7 +3,7 @@
 A personal To-Do List app built with Spring Boot, JSP, Maven, and H2 database.  
 Allows you to manage, categorize, and filter your daily tasks.
 
----
+
 
 ## 2 Minute Live Demo Video
 
@@ -11,7 +11,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 
 <https://youtu.be/L7ApUuiYNjE>
 
----
+
 
 ## Features
 
@@ -22,7 +22,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 - Easy username-based "save/load" for persistent storage (future-proof)
 - Built with Spring Boot, JSP, Java 17, and Maven
 
----
+
 
 ## Screenshots
 
@@ -35,7 +35,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 ### Task Appears in List
 ![Task In List](screenshots/3.png)
 
----
+
 
 ## Technologies Used
 
@@ -47,7 +47,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 - Servlet/Jakarta API
 - Modern CSS
 
----
+
 
 ## To run locally
 
@@ -56,7 +56,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 - mvn clean compile
 - mvn spring-boot:run
 - Check localhost:8080
----
+
 
 ## Credit
 
