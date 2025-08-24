@@ -18,8 +18,7 @@ Allows you to manage, categorize, and filter your daily tasks.
 - Add, edit, delete, and complete tasks
 - Filter & search by category, status, priority, and query
 - Bulk selection and actions
-- Beautiful and modern responsive UI
-- Easy username-based "save/load" for persistent storage (future-proof)
+- Modern responsive UI
 - Built with Spring Boot, JSP, Java 17, and Maven
 
 
