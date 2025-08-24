@@ -39,23 +39,23 @@ Allows you to manage, categorize, and filter your daily tasks.
 
 ## Technologies Used
 
-- **Java 17+**
-- **Spring Boot** (Web, Data JPA)
-- **Maven**
-- **JSP** (JavaServer Pages)
-- **H2 Database** (in-memory)
-- **Servlet/Jakarta API**
-- **Modern CSS**
+- Java 17+
+- Spring Boot (Web, Data JPA)
+- Maven
+- JSP (JavaServer Pages)
+- H2 Database (in-memory)
+- Servlet/Jakarta API
+- Modern CSS
 
 ---
 
 ## To run locally
 
-git clone https://github.com/SumedhKudale/todolistapp
-cd todolistapp
-mvn clean compile
-mvn spring-boot:run
-Check localhost:8080
+- git clone https://github.com/SumedhKudale/todolistapp
+- cd todolistapp
+- mvn clean compile
+- mvn spring-boot:run
+- Check localhost:8080
 ---
 
 ## Credit
